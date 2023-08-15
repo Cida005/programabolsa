@@ -1,4 +1,3 @@
-
 # Fundamentos e Agilidade em Scrum                 
                      Fundamentos e Agilidade em Scrum  
 Nessa sprint foi abordado assuntos pertinentes de como funciona o papel do scrum master e suas 
