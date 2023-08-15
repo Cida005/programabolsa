@@ -1,12 +1,13 @@
-                        Instrodução AWS
+#                        Instrodução AWS
+
             Computação em nuvem: É a entrega de recursos de TI sob demanda pela internet com uma definição de preço
             de paamento.
-                        *Entrega sob demanda 
-                        *Recuros de TI
-                        *Tarefas genericas e pesadas da TI
-                        *Sob a internet
-                        *Precifição paga pelo o que usa
-            Alocação Multipla: Compartilha Hardware subjacente
+*                        *Entrega sob demanda 
+*                        *Recuros de TI
+*                        *Tarefas genericas e pesadas da TI
+*                        *Sob a internet
+*                        *Precifição paga pelo o que usa
+##            Alocação Multipla: Compartilha Hardware subjacente
 
             => Tipos de Instância EC2: São otimizadas para tarefas diferentes.
             => Instância em geral: Equilibram os recursos de Computação, memórias de rede.
@@ -19,7 +20,7 @@
             => Instância otimizadas para Armazenamento: São projetadas para cargas de trabalho que exigem alto acesso sequencial
             de leitura e gravação a grandes conjunto de dados no Armazenamento local.
 
-            Preço EC2
+##            Preço EC2
             => Sob demanda: São ideais para cargas de trabalho irregulares de curto prazo que não podem ser interrompidas.
             => Savings Plans: Permite reduzir os custos de Computação ao haver o compromisso com uma quantidade consistente de uso 
             de Computação por um período de um ou três anos.
