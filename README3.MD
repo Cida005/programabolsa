@@ -1,13 +1,12 @@
-#             # Apresentação e Introdução de Teste de Software
+#              Apresentação e Introdução de Teste de Software
         Nesse dia foi apresentado como é o mercado de QA no Brasil e no mundo, detalhando questões de remuneração 
         e formas de contratações.
         Além disso, foi relatado sobre a expansão da área de tecnologia em outras áreas tais como: 
-  *                   Saúde;
-  *                   Comércio;
-  *                   Financeiro;
-  *                   Orgãos publicos;
-  *                   Marketing;
-  *                   Etc.
+  * Saúde;
+  * Comércio;
+  * Financeiro;
+  * Orgãos publicos;
+  * Marketing;
         Dessa forma, vimos que para ser QA tem que se acostumar com prazos e metas para serem atingidas.
         Buscar especialização na área de QA para poder ter mais oportunidades de empregos bem remunerados.
         Aprender a se organizar com suas demandas com documentos e reuniões.
