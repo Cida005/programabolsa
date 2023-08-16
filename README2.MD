@@ -1,0 +1,14 @@
+#                      Scrum, Papéis e suas responsabilidades 
+                    
+Nesse dia foi abordado quais são os papéis do scrum master explicando tudo detalhadamente.
+Com isso vimos que o scrum master fica reponsável por projetar as sprints e cada etapa delas,
+ou seja, ele é quem estabelece o que vai ser feito em cada sprint.
+Além disso, vimos que a metodologia ágil facilita melhor a comunicação entre o cliente e o time 
+de desenvolvimento, podendo assim gerar esclarecer melhor o que de fato o cliente que para o seu 
+projeto.
+Dessa forma, entende-se que cada sprint tem seu tempo de execução para que cada fase do projeto 
+venha ser feita e assim o cliente consegue ver o que esta sendo feito e se realmente é o que ele
+quer de fato para o seu projeto.
+Assim podemos entender melhor o papel do scrum master e suas responsabilidades.
+
+
