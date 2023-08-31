@@ -200,5 +200,6 @@ Em uma abordagem de microserviços os componentes do aplicativo têm um acoplame
 ## Amazon Simple Notification Service(Amazon SNS):
 É um serviço de publicação e assinatura usando topicos da amazon SNS um editor publica a mensagem para o assinante.
 ## Amazon Simple Queue Service (Amazon SQS):
-É para armazenar e receber mensagens entre componentes de software, sem perder a mensagem.
+* É para armazenar e receber mensagens entre componentes de software, sem perder a mensagem.
+
 
